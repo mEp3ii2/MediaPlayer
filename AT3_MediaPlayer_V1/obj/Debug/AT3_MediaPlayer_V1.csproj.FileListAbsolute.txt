@@ -1,0 +1,12 @@
+C:\Users\student\Source\Repos\AT3_MediaPlayer_V1\bin\Debug\AT3_MediaPlayer_V1.exe.config
+C:\Users\student\Source\Repos\AT3_MediaPlayer_V1\bin\Debug\AT3_MediaPlayer_V1.exe
+C:\Users\student\Source\Repos\AT3_MediaPlayer_V1\bin\Debug\AT3_MediaPlayer_V1.pdb
+C:\Users\student\Source\Repos\AT3_MediaPlayer_V1\obj\Debug\AT3_MediaPlayer_V1.csprojAssemblyReference.cache
+C:\Users\student\Source\Repos\AT3_MediaPlayer_V1\obj\Debug\AT3_MediaPlayer_V1.Form1.resources
+C:\Users\student\Source\Repos\AT3_MediaPlayer_V1\obj\Debug\AT3_MediaPlayer_V1.Properties.Resources.resources
+C:\Users\student\Source\Repos\AT3_MediaPlayer_V1\obj\Debug\AT3_MediaPlayer_V1.Search.resources
+C:\Users\student\Source\Repos\AT3_MediaPlayer_V1\obj\Debug\AT3_MediaPlayer_V1.csproj.GenerateResource.cache
+C:\Users\student\Source\Repos\AT3_MediaPlayer_V1\obj\Debug\AT3_MediaPlayer_V1.csproj.CoreCompileInputs.cache
+C:\Users\student\Source\Repos\AT3_MediaPlayer_V1\obj\Debug\AT3_MediaPlayer_V1.exe
+C:\Users\student\Source\Repos\AT3_MediaPlayer_V1\obj\Debug\AT3_MediaPlayer_V1.pdb
+C:\Users\student\Source\Repos\AT3_MediaPlayer_V1\obj\Debug\AT3_MediaPlayer_V1.Sort.resources
